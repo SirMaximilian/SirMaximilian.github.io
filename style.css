@@ -1,0 +1,30 @@
+
+html{
+    background-color: whitesmoke;
+}
+
+*{
+    margin:0;
+    padding:0;	
+    box-sizing: border-box;
+}
+
+#title{
+    color: darkcyan;
+    text-align: center;
+    margin: 3% 0% 1% 0%;
+}
+
+#text{
+    font-size: 1.2rem;
+    margin: 0% 10%;
+}
+
+.headings{
+    margin: 1% 0% 2% 6%;
+}
+
+.list {
+    font-size: 1.2rem;
+    margin: 0% 10%;
+}
